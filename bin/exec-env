@@ -1,1 +1,2 @@
-xcodes select
+echo "running bin/exec-env"
+xcodes select "$ASDF_INSTALL_VERSION"
